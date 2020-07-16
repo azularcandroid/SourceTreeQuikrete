@@ -1,0 +1,8 @@
+com.mobsandgeeks.ui
+attr customTypeface
+attr reflectionColor
+drawable ic_launcher
+drawable mask
+string app_name
+styleable ShimmerView reflectionColor
+styleable TypefaceTextView customTypeface

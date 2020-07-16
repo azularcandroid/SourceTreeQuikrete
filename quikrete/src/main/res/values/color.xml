@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="home_bg" type="color">#4D4D4D</item>
+    <item name="home_icons_inactive" type="color">#4E4E4E</item>
+    <item name="home_icons_active" type="color">#FAAF3A</item>
+    <item name="yellow_color" type="color">#FAAF3A</item>
+    <item name="white_color" type="color">#FFF</item>
+
+    <color name="radio_button_selected_color">#ff33b5e5</color>
+    <color name="radio_button_unselected_color">@android:color/transparent</color>
+
+    <item name="star_unlike" type="color">#4D4D4D</item>
+
+    <color name="section_color">#f0f0f0</color>
+    <color name="border_color">#dedede</color>
+    <color name="header_color">#f6f6f6</color>
+    <color name="header_border_shadow">#ffffff</color>
+    <color name="grey">#909294</color>
+    <!--<color name="grey_dark">#828282</color>-->
+    <color name="grey_dark">#57585b</color>
+    <color name="grey_darkest">#363636</color>
+    <!--<color name="light_grey">#e0e0e0</color>-->
+    <color name="light_grey">#cacaca</color>
+
+    <color name="red">#900</color>
+    <color name="green">#75BE43</color>
+    <color name="blue">#009</color>
+    <color name="white">#FFF</color>
+    <color name="black">#000</color>
+
+
+
+    <!--
+    <item name="login_forgt_pwd" type="color">#AEAEAF</item>
+    <item name="login_get_it_now" type="color">#B9B7B8</item>
+
+    <color name="red">#900</color>
+    <color name="green">#75BE43</color>
+    <color name="blue">#009</color>
+    <color name="white">#FFF</color>
+    <color name="black">#000</color>
+    <color name="orange">#F69B54</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="grey">#A5A6A5</color>
+    <color name="grey_text">#C0C0C1</color>
+
+
+    <color name="login_grey_usrpwd">#B9B7B8</color>
+
+
+     <color name="border_color">#dedede</color>
+
+    <color name="header_color">#f6f6f6</color>
+    <color name="header_border_shadow">#ffffff</color>
+
+    <color name="section_color">#f0f0f0</color>
+    -->
+
+</resources>

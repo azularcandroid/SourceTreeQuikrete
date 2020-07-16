@@ -1,0 +1,325 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From FacebookSDK:
+* .DS_Store
+* build.gradle
+* build.xml
+* facebook.iml
+From Quikrete:
+* .DS_Store
+* Quikrete.iml
+* ic_launcher-web.png
+* proguard-project.txt
+From library-custom-fonts:
+* .gitignore
+* build.gradle
+* build/
+* build/generated/
+* build/generated/source/
+* build/generated/source/buildConfig/
+* build/generated/source/buildConfig/androidTest/
+* build/generated/source/buildConfig/androidTest/androidTest1.iml
+* build/generated/source/buildConfig/androidTest/debug/
+* build/generated/source/buildConfig/androidTest/debug/com/
+* build/generated/source/buildConfig/androidTest/debug/com/mobsandgeeks/
+* build/generated/source/buildConfig/androidTest/debug/com/mobsandgeeks/ui/
+* build/generated/source/buildConfig/androidTest/debug/com/mobsandgeeks/ui/test/
+* build/generated/source/buildConfig/androidTest/debug/com/mobsandgeeks/ui/test/BuildConfig.java
+* build/generated/source/buildConfig/buildConfig.iml
+* build/generated/source/buildConfig/debug/
+* build/generated/source/buildConfig/debug/com/
+* build/generated/source/buildConfig/debug/com/mobsandgeeks/
+* build/generated/source/buildConfig/debug/com/mobsandgeeks/ui/
+* build/generated/source/buildConfig/debug/com/mobsandgeeks/ui/BuildConfig.java
+* build/generated/source/buildConfig/release/
+* build/generated/source/buildConfig/release/com/
+* build/generated/source/buildConfig/release/com/mobsandgeeks/
+* build/generated/source/buildConfig/release/com/mobsandgeeks/ui/
+* build/generated/source/buildConfig/release/com/mobsandgeeks/ui/BuildConfig.java
+* build/generated/source/r/
+* build/generated/source/r/androidTest/
+* build/generated/source/r/androidTest/androidTest.iml
+* build/generated/source/r/androidTest/debug/
+* build/generated/source/r/androidTest/debug/com/
+* build/generated/source/r/androidTest/debug/com/mobsandgeeks/
+* build/generated/source/r/androidTest/debug/com/mobsandgeeks/ui/
+* build/generated/source/r/androidTest/debug/com/mobsandgeeks/ui/R.java
+* build/generated/source/r/androidTest/debug/com/mobsandgeeks/ui/test/
+* build/generated/source/r/androidTest/debug/com/mobsandgeeks/ui/test/R.java
+* build/generated/source/r/debug/
+* build/generated/source/r/debug/com/
+* build/generated/source/r/debug/com/mobsandgeeks/
+* build/generated/source/r/debug/com/mobsandgeeks/ui/
+* build/generated/source/r/debug/com/mobsandgeeks/ui/R.java
+* build/generated/source/r/r.iml
+* build/generated/source/r/release/
+* build/generated/source/r/release/com/
+* build/generated/source/r/release/com/mobsandgeeks/
+* build/generated/source/r/release/com/mobsandgeeks/ui/
+* build/generated/source/r/release/com/mobsandgeeks/ui/R.java
+* build/intermediates/
+* build/intermediates/bundles/
+* build/intermediates/bundles/debug/
+* build/intermediates/bundles/debug/AndroidManifest.xml
+* build/intermediates/bundles/debug/R.txt
+* build/intermediates/bundles/debug/aapt/
+* build/intermediates/bundles/debug/aapt/AndroidManifest.xml
+* build/intermediates/bundles/debug/classes.jar
+* build/intermediates/bundles/debug/res/
+* build/intermediates/bundles/debug/res/drawable-hdpi/
+* build/intermediates/bundles/debug/res/drawable-hdpi/ic_launcher.png
+* build/intermediates/bundles/debug/res/drawable-mdpi/
+* build/intermediates/bundles/debug/res/drawable-mdpi/ic_launcher.png
+* build/intermediates/bundles/debug/res/drawable-mdpi/mask.xml
+* build/intermediates/bundles/debug/res/drawable-xhdpi/
+* build/intermediates/bundles/debug/res/drawable-xhdpi/ic_launcher.png
+* build/intermediates/bundles/debug/res/values/
+* build/intermediates/bundles/debug/res/values/values.xml
+* build/intermediates/bundles/release/
+* build/intermediates/bundles/release/AndroidManifest.xml
+* build/intermediates/bundles/release/R.txt
+* build/intermediates/bundles/release/aapt/
+* build/intermediates/bundles/release/aapt/AndroidManifest.xml
+* build/intermediates/bundles/release/classes.jar
+* build/intermediates/bundles/release/res/
+* build/intermediates/bundles/release/res/drawable-hdpi/
+* build/intermediates/bundles/release/res/drawable-hdpi/ic_launcher.png
+* build/intermediates/bundles/release/res/drawable-mdpi/
+* build/intermediates/bundles/release/res/drawable-mdpi/ic_launcher.png
+* build/intermediates/bundles/release/res/drawable-mdpi/mask.xml
+* build/intermediates/bundles/release/res/drawable-xhdpi/
+* build/intermediates/bundles/release/res/drawable-xhdpi/ic_launcher.png
+* build/intermediates/bundles/release/res/values/
+* build/intermediates/bundles/release/res/values/values.xml
+* build/intermediates/classes/
+* build/intermediates/classes/debug/
+* build/intermediates/classes/debug/com/
+* build/intermediates/classes/debug/com/mobsandgeeks/
+* build/intermediates/classes/debug/com/mobsandgeeks/ui/
+* build/intermediates/classes/debug/com/mobsandgeeks/ui/BuildConfig.class
+* build/intermediates/classes/debug/com/mobsandgeeks/ui/R$attr.class
+* build/intermediates/classes/debug/com/mobsandgeeks/ui/R$drawable.class
+* build/intermediates/classes/debug/com/mobsandgeeks/ui/R$string.class
+* build/intermediates/classes/debug/com/mobsandgeeks/ui/R$styleable.class
+* build/intermediates/classes/debug/com/mobsandgeeks/ui/R.class
+* build/intermediates/classes/debug/com/mobsandgeeks/ui/Shimmer$1$1.class
+* build/intermediates/classes/debug/com/mobsandgeeks/ui/Shimmer$1.class
+* build/intermediates/classes/debug/com/mobsandgeeks/ui/Shimmer$2.class
+* build/intermediates/classes/debug/com/mobsandgeeks/ui/Shimmer.class
+* build/intermediates/classes/debug/com/mobsandgeeks/ui/ShimmerButton.class
+* build/intermediates/classes/debug/com/mobsandgeeks/ui/ShimmerTextView.class
+* build/intermediates/classes/debug/com/mobsandgeeks/ui/ShimmerViewBase.class
+* build/intermediates/classes/debug/com/mobsandgeeks/ui/ShimmerViewHelper$AnimationSetupCallback.class
+* build/intermediates/classes/debug/com/mobsandgeeks/ui/ShimmerViewHelper.class
+* build/intermediates/classes/debug/com/mobsandgeeks/ui/TypefaceEditText.class
+* build/intermediates/classes/debug/com/mobsandgeeks/ui/TypefaceTextView.class
+* build/intermediates/classes/debug/com/mobsandgeeks/ui/TypefaceTextView_Shimmer.class
+* build/intermediates/classes/release/
+* build/intermediates/classes/release/com/
+* build/intermediates/classes/release/com/mobsandgeeks/
+* build/intermediates/classes/release/com/mobsandgeeks/ui/
+* build/intermediates/classes/release/com/mobsandgeeks/ui/BuildConfig.class
+* build/intermediates/classes/release/com/mobsandgeeks/ui/R$attr.class
+* build/intermediates/classes/release/com/mobsandgeeks/ui/R$drawable.class
+* build/intermediates/classes/release/com/mobsandgeeks/ui/R$string.class
+* build/intermediates/classes/release/com/mobsandgeeks/ui/R$styleable.class
+* build/intermediates/classes/release/com/mobsandgeeks/ui/R.class
+* build/intermediates/classes/release/com/mobsandgeeks/ui/Shimmer$1$1.class
+* build/intermediates/classes/release/com/mobsandgeeks/ui/Shimmer$1.class
+* build/intermediates/classes/release/com/mobsandgeeks/ui/Shimmer$2.class
+* build/intermediates/classes/release/com/mobsandgeeks/ui/Shimmer.class
+* build/intermediates/classes/release/com/mobsandgeeks/ui/ShimmerButton.class
+* build/intermediates/classes/release/com/mobsandgeeks/ui/ShimmerTextView.class
+* build/intermediates/classes/release/com/mobsandgeeks/ui/ShimmerViewBase.class
+* build/intermediates/classes/release/com/mobsandgeeks/ui/ShimmerViewHelper$AnimationSetupCallback.class
+* build/intermediates/classes/release/com/mobsandgeeks/ui/ShimmerViewHelper.class
+* build/intermediates/classes/release/com/mobsandgeeks/ui/TypefaceEditText.class
+* build/intermediates/classes/release/com/mobsandgeeks/ui/TypefaceTextView.class
+* build/intermediates/classes/release/com/mobsandgeeks/ui/TypefaceTextView_Shimmer.class
+* build/intermediates/incremental/
+* build/intermediates/incremental/aidl/
+* build/intermediates/incremental/aidl/androidTest/
+* build/intermediates/incremental/aidl/androidTest/debug/
+* build/intermediates/incremental/aidl/androidTest/debug/dependency.store
+* build/intermediates/incremental/aidl/debug/
+* build/intermediates/incremental/aidl/debug/dependency.store
+* build/intermediates/incremental/aidl/release/
+* build/intermediates/incremental/aidl/release/dependency.store
+* build/intermediates/incremental/mergeAssets/
+* build/intermediates/incremental/mergeAssets/androidTest/
+* build/intermediates/incremental/mergeAssets/androidTest/debug/
+* build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml
+* build/intermediates/incremental/mergeAssets/debug/
+* build/intermediates/incremental/mergeAssets/debug/merger.xml
+* build/intermediates/incremental/mergeAssets/release/
+* build/intermediates/incremental/mergeAssets/release/merger.xml
+* build/intermediates/incremental/mergeResources/
+* build/intermediates/incremental/mergeResources/androidTest/
+* build/intermediates/incremental/mergeResources/androidTest/debug/
+* build/intermediates/incremental/mergeResources/androidTest/debug/merger.xml
+* build/intermediates/incremental/packageResources/
+* build/intermediates/incremental/packageResources/debug/
+* build/intermediates/incremental/packageResources/debug/merger.xml
+* build/intermediates/incremental/packageResources/release/
+* build/intermediates/incremental/packageResources/release/merger.xml
+* build/intermediates/manifests/
+* build/intermediates/manifests/androidTest/
+* build/intermediates/manifests/androidTest/debug/
+* build/intermediates/manifests/androidTest/debug/AndroidManifest.xml
+* build/intermediates/manifests/tmp/
+* build/intermediates/manifests/tmp/manifestMerger5707772901988962090.xml
+* build/intermediates/res/
+* build/intermediates/res/androidTest/
+* build/intermediates/res/androidTest/debug/
+* build/intermediates/res/androidTest/debug/drawable-hdpi/
+* build/intermediates/res/androidTest/debug/drawable-hdpi/ic_launcher.png
+* build/intermediates/res/androidTest/debug/drawable-mdpi/
+* build/intermediates/res/androidTest/debug/drawable-mdpi/ic_launcher.png
+* build/intermediates/res/androidTest/debug/drawable-mdpi/mask.xml
+* build/intermediates/res/androidTest/debug/drawable-xhdpi/
+* build/intermediates/res/androidTest/debug/drawable-xhdpi/ic_launcher.png
+* build/intermediates/res/androidTest/debug/values/
+* build/intermediates/res/androidTest/debug/values/values.xml
+* build/intermediates/resources/
+* build/intermediates/resources/resources-debug-androidTest.ap_
+* build/intermediates/symbols/
+* build/intermediates/symbols/androidTest/
+* build/intermediates/symbols/androidTest/debug/
+* build/intermediates/symbols/androidTest/debug/R.txt
+* build/outputs/
+* build/outputs/aar/
+* build/outputs/aar/library-custom-fonts-debug.aar
+* build/outputs/aar/library-custom-fonts-release.aar
+* build/tmp/
+* build/tmp/packageDebugJar/
+* build/tmp/packageDebugJar/MANIFEST.MF
+* build/tmp/packageReleaseJar/
+* build/tmp/packageReleaseJar/MANIFEST.MF
+* library-custom-fonts.iml
+* proguard-project.txt
+From library-urlImageviewhelper:
+* UrlImageViewHelper.iml
+* build.xml
+* library-urlImageviewhelper.iml
+* pom.xml
+* proguard-project.txt
+* proguard.cfg
+From library-zxing:
+* ant.properties
+* build.xml
+* library-zxing.iml
+* pom.xml
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+android-support-v7-appcompat.jar => com.android.support:appcompat-v7:18.0.0
+gson-2.2.4.jar => com.google.code.gson:gson:2.2.4
+
+Potentially Missing Dependency:
+-------------------------------
+When we replaced the following .jar files with a Gradle dependency, we
+inferred the dependency version number from the filename. This
+specific version may not actually be available from the repository.
+If you get a build error stating that the dependency is missing, edit
+the version number to for example "+" to pick up the latest version
+instead. (This may require you to update your code if the library APIs
+have changed.)
+
+gson-2.2.4.jar => version 2.2.4 in com.google.code.gson:gson:2.2.4
+
+Replaced Libraries with Dependencies:
+-------------------------------------
+The importer recognized the following library projects as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the source files in your project were of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the library replacement in the import wizard and try
+again:
+
+android-support-v7-appcompat => [com.android.support:appcompat-v7:18.0.0]
+google-play-services_lib => [com.google.android.gms:play-services:+]
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In FacebookSDK:
+* AndroidManifest.xml => facebookSDK/src/main/AndroidManifest.xml
+* assets/ => facebookSDK/src/main/assets
+* libs/bolts-android-1.1.2.jar => facebookSDK/libs/bolts-android-1.1.2.jar
+* res/ => facebookSDK/src/main/res/
+* src/ => facebookSDK/src/main/java/
+In library-custom-fonts:
+* AndroidManifest.xml => librarycustomfonts/src/main/AndroidManifest.xml
+* assets/ => librarycustomfonts/src/main/assets
+* res/ => librarycustomfonts/src/main/res/
+* src/ => librarycustomfonts/src/main/java/
+In library-urlImageviewhelper:
+* AndroidManifest.xml => libraryurlImageviewhelper/src/main/AndroidManifest.xml
+* assets/ => libraryurlImageviewhelper/src/main/assets
+* lint.xml => libraryurlImageviewhelper/lint.xml
+* res/ => libraryurlImageviewhelper/src/main/res/
+* src/ => libraryurlImageviewhelper/src/main/java/
+In library-zxing:
+* AndroidManifest.xml => libraryzxing/src/main/AndroidManifest.xml
+* assets/ => libraryzxing/src/main/assets/
+* libs/core-2.3.0-javadoc.jar => libraryzxing/libs/core-2.3.0-javadoc.jar
+* libs/core-2.3.0-sources.jar => libraryzxing/libs/core-2.3.0-sources.jar
+* libs/core-2.3.0.jar => libraryzxing/libs/core-2.3.0.jar
+* proguard-android-optimize.txt => libraryzxing/proguard-android-optimize.txt
+* res/ => libraryzxing/src/main/res/
+* src/ => libraryzxing/src/main/java/
+In Quikrete:
+* AndroidManifest.xml => quikrete/src/main/AndroidManifest.xml
+* assets/ => quikrete/src/main/assets/
+* libs/YouTubeAndroidPlayerApi.jar => quikrete/libs/YouTubeAndroidPlayerApi.jar
+* lint.xml => quikrete/lint.xml
+* res/ => quikrete/src/main/res/
+* src/ => quikrete/src/main/java/
+* src/.DS_Store => quikrete/src/main/resources/.DS_Store
+* src/com/.DS_Store => quikrete/src/main/resources/com/.DS_Store
+* src/com/quikrete/.DS_Store => quikrete/src/main/resources/com/quikrete/.DS_Store
+* src/com/quikrete/utils/.DS_Store => quikrete/src/main/resources/com/quikrete/utils/.DS_Store
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

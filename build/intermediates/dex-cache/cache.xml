@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/prasadlokhande/.android/build-cache/d58c47d1e9c257785e8db45664ab542865f4f2fb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5cd0cd36116fde292cd4dc877457249f0437dd45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prasadlokhande/.android/build-cache/7dba4aceddf30cf2804fad483afb8a394e4e43a9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eba90ef6d564581587890dfd1b2e18b5acec0393/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prasadlokhande/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.4_11fcbb84c41434037faf3ba329b04a2931032131/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prasadlokhande/.android/build-cache/61d68f46cf841fa92a8e18bdabe4ca0b674575ea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/transforms/dex/debug/folders/1000/10/classes_60bf676775079495f13a7a95e8084099e107950f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prasadlokhande/.android/build-cache/f9f9acb6f58f0e967252ba226ea55fe6f280e0f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e5062ed3140c019bbd69539c1c5264474ee4d7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prasadlokhande/.android/build-cache/d5f393658de85e1fce2c6bcd821a5a557332fbd9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e78def8e395d9e5ecc6806f17d3f451f4168e2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prasadlokhande/.android/build-cache/ba0c41de3a869ed553fbc743555ad0e91ebec234/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ad26e58ea10215c9e2a6c9d93b9687b3e59432a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prasadlokhande/.android/build-cache/e9163eab1ae76b498b4e2ca273ca33308de8c217/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/transforms/dex/debug/folders/1000/10/classes_922663bf8904462bf09fafeb642264995b9adbfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prasadlokhande/.android/build-cache/3e1aa2dcb7aa07b9f6f3ae491c9f8faf057037aa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea98997b8aeb769361d28d01e3bbd0afdd8867d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prasadlokhande/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-android-1.1.4_84ea5189d4d1d3e7133397ca84fae5c4b6668870/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_da29699873e2d6ae918b3aa009feccf09b66272e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prasadlokhande/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_3105ecced6ea79807c28b2bed97d69d4453214dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prasadlokhande/.android/build-cache/67a9e1cc1ba26f52be9db6645adbc22ea859ca9c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c64a79a6d159e41b4907978b99161b9dde428070/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prasadlokhande/.android/build-cache/00695fa85e094bc77b923d7fe741f0c54ec05260/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/transforms/dex/debug/folders/1000/10/classes_64e103f65325d187916d66fbd680b0a52b224ddb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prasadlokhande/.android/build-cache/8f3b211395c6a6042bd945416e0bbbf82188841c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9907a7c621bb64a345efdf717e0a7788cb8b4bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48f0488578444bfdce115ed51c0cf416f612f899">
+        <dex dex="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b26ea003b384d89fd9a7b0284fcf41f13615bc9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prasadlokhande/.android/build-cache/6995e84abf4451cf08cf00b947ee43b3c1daf53f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/transforms/dex/debug/folders/1000/10/classes_457803c30e4db4a4f7e9e788f5cfe7b68a9b21ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prasadlokhande/.android/build-cache/3d9da253f54818fd77ee5bc34d0cf2732fa1dd6a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c184e81ff2910f21e1bd6345f8174f0eb4ff3279/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prasadlokhande/Documents/Quikrete/quikrete/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29ccfbddf99584bddbaab62c0cf50dcd1c564e43">
+        <dex dex="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_7ae55baffc1859530a9b95b14423b0df1e05190f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prasadlokhande/Documents/Quikrete/quikrete/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29ccfbddf99584bddbaab62c0cf50dcd1c564e43">
+        <dex dex="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_7ae55baffc1859530a9b95b14423b0df1e05190f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prasadlokhande/.android/build-cache/15d8e033c03054a102818bc1401993ddd7796653/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b77b9ce4bef248f659fe649b184e1a02a64c942a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prasadlokhande/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.4_11fcbb84c41434037faf3ba329b04a2931032131/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prasadlokhande/.android/build-cache/a6a237dcc74faa87b5fd1703829f4a6beb6561b3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bbb9ac1a1124a19f1b04a500c6589ddc6bc442e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prasadlokhande/.android/build-cache/99e914cabc68a4ec0e925322f6e705f65b992b8d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3b5b5296a61c197b82e844ef12ca04627712a5e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prasadlokhande/.android/build-cache/76a39329a311856bbc23cc3dee10d5893f59afff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c84fa838ddda483058e453964234c94e8683348/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prasadlokhande/.android/build-cache/3b33d398db2c001c787fafac6765bae18c353c7b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5cd674e1a155e113a595b5aca28118571c3b2642/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prasadlokhande/.android/build-cache/ded2d6775916da44a35bbe46158f39c6394facbd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/Users/prasadlokhande/Documents/Quikrete/quikrete/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f53ebe59cb4a2d7c5a0709a9f4aa5bfd8dc0c591/classes.dex" />
+    </item>
+
+</items>

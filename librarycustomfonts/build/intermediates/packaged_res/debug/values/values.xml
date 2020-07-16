@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ShimmerView">
+        <attr format="color" name="reflectionColor"/>
+    </declare-styleable>
+    <declare-styleable name="TypefaceTextView">
+        <attr format="string" name="customTypeface"/>
+    </declare-styleable>
+    <string name="app_name">android-typeface-textview</string>
+</resources>

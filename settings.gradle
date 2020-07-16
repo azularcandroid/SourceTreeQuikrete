@@ -1,0 +1,5 @@
+include ':facebookSDK', ':libraryzxing1'
+include ':librarycustomfonts'
+include ':libraryurlImageviewhelper'
+include ':quikrete'
+project(':libraryzxing1').projectDir = new File('libraryzxing')

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="90dp"
+    android:background="#FFF"
+    android:weightSum="100" >
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="2"
+        android:gravity="center" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="98"
+        android:gravity="center" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="80dp"
+            android:layout_marginLeft="10dp"
+            android:orientation="vertical"
+            android:weightSum="100" >
+
+            <TextView
+                android:id="@+id/txt_shop_name"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="40"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:padding="2dp"
+                android:textColor="#4B4B4B"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txt_shop_address"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="60"
+                android:textColor="#4B4B4B" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

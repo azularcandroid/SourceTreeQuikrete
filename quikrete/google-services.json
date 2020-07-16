@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "96736968342",
+    "firebase_url": "https://quikrete-3f857.firebaseio.com",
+    "project_id": "quikrete-3f857",
+    "storage_bucket": "quikrete-3f857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96736968342:android:50a59aea89b0ae01620cb7",
+        "android_client_info": {
+          "package_name": "com.quikrete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96736968342-4h05pinj6md2idijg3gse83kotr783ek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quikrete",
+            "certificate_hash": "c24f8b05cb51e4aa4fcb401126a75161f3a890bf"
+          }
+        },
+        {
+          "client_id": "96736968342-nad3b83e06bklv6h5ci3ntqncugpmj6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwcJCeEQ8DWo5XSz5XIMZgXjRDbip6B8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96736968342-nad3b83e06bklv6h5ci3ntqncugpmj6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

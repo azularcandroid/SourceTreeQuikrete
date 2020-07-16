@@ -1,0 +1,9 @@
+int attr customTypeface 0x7f040001
+int attr reflectionColor 0x7f040002
+int drawable ic_launcher 0x7f090001
+int drawable mask 0x7f090002
+int string app_name 0x7f150001
+int[] styleable ShimmerView { 0x7f040002 }
+int styleable ShimmerView_reflectionColor 0
+int[] styleable TypefaceTextView { 0x7f040001 }
+int styleable TypefaceTextView_customTypeface 0
