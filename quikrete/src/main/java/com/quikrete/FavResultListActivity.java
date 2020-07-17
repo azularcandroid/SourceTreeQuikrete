@@ -428,8 +428,9 @@ public class FavResultListActivity extends Activity implements
                         break;
                     case 1:
                         intent = new Intent(FavResultListActivity.this,
-                                ProductDetailActivity.class);
+                                ProjectDetailActivity.class);
                         intent.putExtra("id", getSelectedId(arg2));
+                        //1397
                         intent.putExtra("type", "1");
                         startActivity(intent);
                         break;
@@ -795,7 +796,6 @@ public class FavResultListActivity extends Activity implements
                         context,
                         SharedPreferenceHelper.APP_SWEEPSTAKES_REGISTERED);
                 if ((regStatus != null && regStatus.equals("1"))) {
-
                     ll_app_sweep_takes_header.setVisibility(View.GONE);
                 } else {
                     ll_app_sweep_takes_header.setVisibility(View.VISIBLE);

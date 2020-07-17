@@ -869,33 +869,36 @@ public class MainActivity extends Activity implements GoogleApiClient.Connection
         // TODO Auto-generated method stub
         super.onActivityResult(requestCode, resultCode, data);
 
+        if (!(resultCode < 0)) {
+            switch (requestCode) {
+                case REQUEST_LOCATION:
+                    switch (resultCode) {
+                        case Activity.RESULT_OK: {
 
-        switch (requestCode) {
-            case REQUEST_LOCATION:
-                switch (resultCode) {
-                    case Activity.RESULT_OK: {
+                            String contents = data.getStringExtra("SCAN_RESULT");
+                            Log.d("newlog", "contents: " + contents);
+                            Intent intent = new Intent(context, ProductDetailActivity.class);
+                            intent.putExtra("type", "2");
+                            intent.putExtra("cat_id", contents);
+                            startActivity(intent);
+                            // All required changes were successfully made
+                            Toast.makeText(MainActivity.this, "Location enabled by user!", Toast.LENGTH_LONG).show();
+                            break;
+                        }
+                        case Activity.RESULT_CANCELED: {
+                            // The user was asked to change settings, but chose not to
+                            Toast.makeText(MainActivity.this, "Location not enabled, user cancelled.", Toast.LENGTH_LONG).show();
+                            break;
+                        }
+                        default: {
+                            break;
+                        }
+                    }
+            }
 
-                        String contents = data.getStringExtra("SCAN_RESULT");
-                        Log.d("newlog", "contents: " + contents);
-                        Intent intent = new Intent(context, ProductDetailActivity.class);
-                        intent.putExtra("type", "2");
-                        intent.putExtra("cat_id", contents);
-                        startActivity(intent);
-                        // All required changes were successfully made
-                        Toast.makeText(MainActivity.this, "Location enabled by user!", Toast.LENGTH_LONG).show();
-                        break;
-                    }
-                    case Activity.RESULT_CANCELED: {
-                        // The user was asked to change settings, but chose not to
-                        Toast.makeText(MainActivity.this, "Location not enabled, user cancelled.", Toast.LENGTH_LONG).show();
-                        break;
-                    }
-                    default: {
-                        break;
-                    }
-                }
+        } else {
+            Toast.makeText(context, "No product found for this barcode", Toast.LENGTH_LONG).show();
         }
-
     }
 
     // void startAnim(){

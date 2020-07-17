@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./libraryzxing/libs/core-2.3.0-sources.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraryzxing/libs/core-2.3.0-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
